@@ -8,5 +8,6 @@
 vss121/vss121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vss121)
-[![vss121's GitHub stats](https://github-readme-stats.vercel.app/api?username=vss121)]
+
+</p>![vss121's GitHub stats](https://github-readme-stats.vercel.app/api?username=vss121)</p>
+</p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vss121)</p>
