@@ -3,12 +3,6 @@ vss121/vss121 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-- [python (알고리즘)](https://github.com/vss121/PYTHON)
-- [스터디 (데분)](https://github.com/vss121/study-DataAnalysis)
-- [java](https://github.com/vss121/JAVA)
-- [web](https://github.com/vss121/lecture-fastcampus-PythonWeb)
-
-   
 
 **:star2::star2:**
 
